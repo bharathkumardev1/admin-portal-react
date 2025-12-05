@@ -1,0 +1,20 @@
+
+{
+  "name": "admin-portal-react",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Role-based admin portal built with React and TypeScript.",
+  "scripts": {
+    "start": "echo \"Dev server placeholder\"",
+    "build": "echo \"Build placeholder\"",
+    "test": "echo \"Test placeholder\""
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
